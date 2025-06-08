@@ -1,0 +1,6 @@
+Total Rows: 500, Columns: 6
+Missing values before cleaning: 0
+Missing columns handled: None
+Data types: {dtype('O'): np.int64(4), dtype('int64'): np.int64(1), dtype('float64'): np.int64(1)}
+Numerical features: ['FoundedYear', 'Funding(M)']
+High correlation between FoundedYear and Funding(M): 0.04

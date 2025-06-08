@@ -1,0 +1,501 @@
+StartupName,FoundedYear,Industry,Funding(M),FundingStage,Outcome
+Startup0,2016,Gaming,66.69,Series C,Exit
+Startup1,2012,AI,68.86,IPO,Exit
+Startup2,2017,EdTech,81.78,Series B,Failed
+Startup3,2014,EdTech,42.51,Series A,Failed
+Startup4,2015,E-commerce,43.1,Series C,Failed
+Startup5,2011,Fintech,17.75,Series A,Still Operating
+Startup6,2017,Gaming,18.16,Seed,Still Operating
+Startup7,2023,AI,54.28,IPO,Exit
+Startup8,2019,AI,88.18,Series C,Still Operating
+Startup9,2010,EdTech,25.95,Series B,Exit
+Startup10,2019,E-commerce,31.09,Series B,Still Operating
+Startup11,2019,E-commerce,4.19,Seed,Failed
+Startup12,2012,Fintech,68.58,Seed,Failed
+Startup13,2011,Gaming,63.53,Seed,Still Operating
+Startup14,2018,EdTech,64.37,Series A,Exit
+Startup15,2011,EdTech,75.83,IPO,Failed
+Startup16,2014,HealthTech,75.49,Series C,Failed
+Startup17,2023,EdTech,94.39,IPO,Exit
+Startup18,2012,Fintech,80.53,Seed,Exit
+Startup19,2018,EdTech,24.35,Series C,Failed
+Startup20,2015,Fintech,82.22,Series B,Exit
+Startup21,2021,Fintech,35.72,Seed,Failed
+Startup22,2013,Gaming,78.83,Seed,Still Operating
+Startup23,2015,HealthTech,61.64,IPO,Still Operating
+Startup24,2022,Gaming,80.31,Series A,Failed
+Startup25,2012,Fintech,90.93,Seed,Still Operating
+Startup26,2010,EdTech,74.41,Series C,Exit
+Startup27,2024,EdTech,65.36,Series B,Failed
+Startup28,2024,Gaming,92.47,IPO,Failed
+Startup29,2023,E-commerce,27.32,Series C,Still Operating
+Startup30,2014,Gaming,82.81,Seed,Exit
+Startup31,2022,EdTech,19.51,IPO,Exit
+Startup32,2019,HealthTech,95.48,Series B,Still Operating
+Startup33,2022,E-commerce,17.0,Series C,Failed
+Startup34,2019,Gaming,87.63,Series A,Still Operating
+Startup35,2015,AI,69.02,Series C,Failed
+Startup36,2021,Fintech,20.62,IPO,Exit
+Startup37,2016,HealthTech,87.02,Series A,Still Operating
+Startup38,2016,Fintech,60.66,Series B,Failed
+Startup39,2022,E-commerce,10.97,Series C,Still Operating
+Startup40,2019,E-commerce,1.52,Series A,Still Operating
+Startup41,2015,AI,45.09,IPO,Failed
+Startup42,2013,EdTech,71.33,Series A,Failed
+Startup43,2013,Fintech,59.87,IPO,Exit
+Startup44,2016,E-commerce,27.09,Series B,Still Operating
+Startup45,2019,HealthTech,80.36,Series A,Exit
+Startup46,2012,E-commerce,85.76,Series B,Failed
+Startup47,2016,EdTech,74.0,Series A,Still Operating
+Startup48,2016,E-commerce,90.61,Series A,Still Operating
+Startup49,2020,AI,25.82,IPO,Still Operating
+Startup50,2016,Gaming,51.06,IPO,Failed
+Startup51,2010,Fintech,84.06,Series B,Failed
+Startup52,2020,E-commerce,2.57,Series C,Failed
+Startup53,2013,AI,76.42,Series A,Still Operating
+Startup54,2024,Fintech,8.35,IPO,Still Operating
+Startup55,2013,Gaming,23.27,IPO,Still Operating
+Startup56,2019,AI,82.51,Series C,Exit
+Startup57,2014,HealthTech,7.45,Series B,Exit
+Startup58,2022,HealthTech,45.59,Series A,Exit
+Startup59,2024,Gaming,53.13,Series A,Exit
+Startup60,2010,EdTech,36.79,Series A,Still Operating
+Startup61,2017,Fintech,16.66,Seed,Failed
+Startup62,2010,HealthTech,97.95,IPO,Exit
+Startup63,2015,Fintech,53.72,Seed,Still Operating
+Startup64,2022,HealthTech,77.69,Series A,Failed
+Startup65,2010,E-commerce,54.43,Series B,Still Operating
+Startup66,2011,Gaming,99.41,Series B,Failed
+Startup67,2024,HealthTech,21.8,IPO,Failed
+Startup68,2022,Fintech,44.28,Series A,Exit
+Startup69,2020,Fintech,22.6,Series C,Still Operating
+Startup70,2021,AI,79.79,IPO,Still Operating
+Startup71,2015,E-commerce,61.31,Series A,Exit
+Startup72,2016,AI,38.65,Series A,Still Operating
+Startup73,2014,HealthTech,9.98,IPO,Failed
+Startup74,2023,E-commerce,45.15,Series C,Failed
+Startup75,2010,EdTech,70.44,Seed,Failed
+Startup76,2015,Fintech,93.05,Series C,Exit
+Startup77,2019,HealthTech,72.7,Series A,Still Operating
+Startup78,2019,Fintech,56.53,Series A,Failed
+Startup79,2015,Gaming,49.98,IPO,Still Operating
+Startup80,2011,AI,7.86,Series C,Failed
+Startup81,2016,E-commerce,34.48,Series A,Exit
+Startup82,2021,HealthTech,34.12,Series A,Exit
+Startup83,2012,Gaming,21.41,Series C,Failed
+Startup84,2010,Fintech,83.44,Series B,Exit
+Startup85,2017,E-commerce,81.25,Series B,Still Operating
+Startup86,2024,AI,8.54,Seed,Failed
+Startup87,2015,AI,47.83,Series C,Still Operating
+Startup88,2022,Fintech,16.36,Seed,Still Operating
+Startup89,2024,Fintech,17.95,Series C,Exit
+Startup90,2012,Fintech,99.87,Series B,Exit
+Startup91,2015,Gaming,25.15,IPO,Still Operating
+Startup92,2023,HealthTech,72.56,IPO,Exit
+Startup93,2022,Gaming,12.62,Series B,Failed
+Startup94,2018,Fintech,70.73,Seed,Still Operating
+Startup95,2018,HealthTech,47.13,Seed,Failed
+Startup96,2023,Gaming,13.02,Series B,Exit
+Startup97,2014,EdTech,90.34,Series B,Failed
+Startup98,2022,EdTech,47.97,Seed,Exit
+Startup99,2018,HealthTech,67.55,Series B,Failed
+Startup100,2012,Gaming,76.14,Series C,Exit
+Startup101,2015,AI,71.64,Series B,Still Operating
+Startup102,2011,EdTech,38.41,Series C,Failed
+Startup103,2016,EdTech,45.48,Series C,Exit
+Startup104,2016,Gaming,63.72,Seed,Still Operating
+Startup105,2010,Fintech,60.7,IPO,Still Operating
+Startup106,2018,AI,14.52,Series B,Still Operating
+Startup107,2019,HealthTech,50.56,IPO,Still Operating
+Startup108,2011,Gaming,78.46,Series C,Exit
+Startup109,2021,EdTech,25.68,Series A,Exit
+Startup110,2012,EdTech,50.67,Series C,Still Operating
+Startup111,2021,Fintech,38.72,Series A,Still Operating
+Startup112,2019,E-commerce,68.28,IPO,Still Operating
+Startup113,2022,E-commerce,34.72,Series C,Still Operating
+Startup114,2019,Gaming,23.75,IPO,Failed
+Startup115,2017,E-commerce,94.68,Seed,Still Operating
+Startup116,2017,EdTech,13.13,IPO,Failed
+Startup117,2021,Gaming,21.78,Seed,Failed
+Startup118,2016,E-commerce,41.43,Seed,Failed
+Startup119,2020,Gaming,92.17,Series C,Still Operating
+Startup120,2014,EdTech,55.89,Series C,Still Operating
+Startup121,2020,Gaming,98.73,IPO,Failed
+Startup122,2011,EdTech,62.57,IPO,Failed
+Startup123,2015,Gaming,24.86,Seed,Still Operating
+Startup124,2012,AI,9.59,Series B,Exit
+Startup125,2020,EdTech,73.22,IPO,Still Operating
+Startup126,2017,Fintech,49.91,Seed,Failed
+Startup127,2021,Fintech,56.59,Series A,Exit
+Startup128,2012,Gaming,12.21,Seed,Still Operating
+Startup129,2017,EdTech,97.84,Seed,Exit
+Startup130,2015,EdTech,85.69,Series C,Failed
+Startup131,2018,EdTech,61.22,IPO,Failed
+Startup132,2010,AI,82.27,Series C,Failed
+Startup133,2018,AI,73.14,IPO,Still Operating
+Startup134,2020,HealthTech,55.7,Series B,Exit
+Startup135,2011,AI,53.39,Series B,Still Operating
+Startup136,2010,Fintech,31.46,Series A,Failed
+Startup137,2021,AI,22.29,Series A,Failed
+Startup138,2016,EdTech,88.57,Series C,Failed
+Startup139,2017,Gaming,31.43,Seed,Still Operating
+Startup140,2022,Gaming,98.13,IPO,Still Operating
+Startup141,2012,Fintech,87.23,Series B,Still Operating
+Startup142,2023,Fintech,34.23,Seed,Still Operating
+Startup143,2011,EdTech,43.68,Series B,Still Operating
+Startup144,2020,EdTech,91.17,Series A,Failed
+Startup145,2022,Fintech,6.8,Series A,Failed
+Startup146,2021,Fintech,47.04,Series A,Still Operating
+Startup147,2018,Gaming,67.04,IPO,Still Operating
+Startup148,2012,Fintech,30.08,IPO,Still Operating
+Startup149,2013,HealthTech,6.95,Seed,Still Operating
+Startup150,2015,E-commerce,73.57,Series C,Failed
+Startup151,2016,Fintech,31.58,Series A,Still Operating
+Startup152,2021,EdTech,50.82,IPO,Exit
+Startup153,2019,E-commerce,93.24,Series C,Exit
+Startup154,2011,AI,66.79,Series C,Exit
+Startup155,2012,AI,48.58,Series C,Exit
+Startup156,2014,HealthTech,43.39,Series C,Exit
+Startup157,2011,AI,20.36,Series A,Failed
+Startup158,2021,AI,18.61,Series C,Still Operating
+Startup159,2014,Gaming,88.03,Series C,Failed
+Startup160,2018,EdTech,38.5,Series C,Failed
+Startup161,2019,E-commerce,54.61,IPO,Still Operating
+Startup162,2010,HealthTech,80.87,Series A,Exit
+Startup163,2012,Gaming,86.84,Series B,Exit
+Startup164,2024,EdTech,72.69,Series B,Still Operating
+Startup165,2020,EdTech,14.5,Seed,Still Operating
+Startup166,2017,Gaming,82.83,Series C,Still Operating
+Startup167,2012,E-commerce,14.84,Series C,Failed
+Startup168,2021,E-commerce,12.06,Series C,Still Operating
+Startup169,2019,EdTech,95.59,Series B,Still Operating
+Startup170,2014,EdTech,0.22,Series C,Failed
+Startup171,2020,E-commerce,26.04,IPO,Still Operating
+Startup172,2023,E-commerce,72.29,Series A,Exit
+Startup173,2017,AI,6.47,Seed,Still Operating
+Startup174,2022,AI,3.02,IPO,Failed
+Startup175,2011,Gaming,41.29,Series C,Exit
+Startup176,2016,AI,18.24,IPO,Failed
+Startup177,2010,Fintech,23.83,Seed,Failed
+Startup178,2021,AI,31.22,IPO,Exit
+Startup179,2012,Gaming,24.39,Seed,Exit
+Startup180,2021,E-commerce,59.0,Series A,Still Operating
+Startup181,2017,Fintech,4.41,IPO,Failed
+Startup182,2014,EdTech,45.31,Series A,Still Operating
+Startup183,2021,HealthTech,30.57,IPO,Exit
+Startup184,2020,EdTech,95.59,Series C,Failed
+Startup185,2011,E-commerce,35.17,Series B,Exit
+Startup186,2021,Fintech,58.17,Series B,Failed
+Startup187,2022,AI,31.27,Series B,Failed
+Startup188,2023,EdTech,97.48,Series B,Still Operating
+Startup189,2020,AI,53.01,Seed,Exit
+Startup190,2024,Fintech,84.59,Seed,Failed
+Startup191,2015,AI,50.05,Series A,Exit
+Startup192,2018,AI,86.29,Series C,Failed
+Startup193,2019,E-commerce,4.94,Seed,Failed
+Startup194,2022,EdTech,70.57,Seed,Still Operating
+Startup195,2015,EdTech,84.67,Series C,Failed
+Startup196,2012,Fintech,69.93,IPO,Failed
+Startup197,2016,HealthTech,75.86,Series A,Exit
+Startup198,2022,EdTech,15.11,Series C,Exit
+Startup199,2024,Gaming,20.7,Series A,Exit
+Startup200,2021,E-commerce,90.67,Series A,Still Operating
+Startup201,2019,HealthTech,67.58,Series A,Exit
+Startup202,2024,EdTech,80.23,Seed,Exit
+Startup203,2024,AI,29.4,Series C,Failed
+Startup204,2012,AI,91.44,Seed,Exit
+Startup205,2015,E-commerce,32.87,Series C,Exit
+Startup206,2012,Fintech,53.85,Series B,Exit
+Startup207,2018,E-commerce,30.54,Series B,Exit
+Startup208,2010,Gaming,33.36,Series B,Failed
+Startup209,2010,HealthTech,87.4,Seed,Exit
+Startup210,2020,EdTech,89.78,Series A,Still Operating
+Startup211,2013,Gaming,31.23,Seed,Exit
+Startup212,2016,E-commerce,61.87,Series B,Still Operating
+Startup213,2014,Gaming,12.85,Seed,Exit
+Startup214,2010,Fintech,94.34,Series C,Still Operating
+Startup215,2010,Gaming,22.49,Seed,Still Operating
+Startup216,2015,EdTech,98.02,Series A,Still Operating
+Startup217,2014,Gaming,61.2,Series A,Exit
+Startup218,2018,AI,78.98,Series A,Exit
+Startup219,2011,Gaming,51.03,IPO,Exit
+Startup220,2020,AI,84.35,Series B,Still Operating
+Startup221,2016,EdTech,92.87,IPO,Still Operating
+Startup222,2019,AI,21.66,Seed,Exit
+Startup223,2021,Fintech,63.77,IPO,Still Operating
+Startup224,2017,HealthTech,25.86,IPO,Still Operating
+Startup225,2016,AI,60.86,Series A,Exit
+Startup226,2021,EdTech,14.3,Series A,Failed
+Startup227,2022,HealthTech,88.45,Seed,Failed
+Startup228,2018,AI,70.35,Series A,Exit
+Startup229,2015,Gaming,53.2,Series B,Still Operating
+Startup230,2024,HealthTech,80.48,Series A,Still Operating
+Startup231,2020,AI,20.03,Seed,Still Operating
+Startup232,2023,AI,36.73,Series A,Failed
+Startup233,2012,Fintech,68.17,Series A,Still Operating
+Startup234,2022,EdTech,27.89,IPO,Failed
+Startup235,2018,Fintech,73.76,Series A,Exit
+Startup236,2023,E-commerce,60.31,Series B,Exit
+Startup237,2013,E-commerce,43.1,Seed,Still Operating
+Startup238,2023,HealthTech,34.19,IPO,Exit
+Startup239,2023,Fintech,17.78,Seed,Exit
+Startup240,2011,AI,75.76,IPO,Still Operating
+Startup241,2015,Gaming,84.86,Series A,Still Operating
+Startup242,2024,E-commerce,14.53,Series C,Still Operating
+Startup243,2024,Gaming,8.65,Seed,Still Operating
+Startup244,2015,HealthTech,88.71,Series A,Failed
+Startup245,2017,Gaming,38.42,IPO,Failed
+Startup246,2013,HealthTech,86.74,Series A,Exit
+Startup247,2018,E-commerce,84.77,Series C,Failed
+Startup248,2015,EdTech,70.91,IPO,Still Operating
+Startup249,2018,AI,74.62,Series A,Still Operating
+Startup250,2013,E-commerce,25.13,Seed,Failed
+Startup251,2015,Gaming,48.19,Series C,Exit
+Startup252,2020,Fintech,92.3,Seed,Still Operating
+Startup253,2020,AI,63.3,Seed,Still Operating
+Startup254,2021,AI,86.85,Series B,Still Operating
+Startup255,2019,HealthTech,96.95,Series C,Failed
+Startup256,2020,E-commerce,81.06,Series B,Exit
+Startup257,2010,Fintech,47.88,Series B,Exit
+Startup258,2019,Fintech,80.09,Series B,Still Operating
+Startup259,2021,EdTech,29.86,IPO,Still Operating
+Startup260,2012,EdTech,59.8,Series B,Still Operating
+Startup261,2018,AI,29.19,Series C,Failed
+Startup262,2010,AI,76.83,IPO,Failed
+Startup263,2010,HealthTech,78.41,Series C,Failed
+Startup264,2016,AI,67.26,IPO,Still Operating
+Startup265,2016,E-commerce,26.97,IPO,Still Operating
+Startup266,2017,HealthTech,93.3,Series A,Still Operating
+Startup267,2016,AI,88.95,IPO,Exit
+Startup268,2019,Fintech,97.96,Series B,Still Operating
+Startup269,2015,Gaming,28.7,IPO,Failed
+Startup270,2020,AI,8.84,Series A,Still Operating
+Startup271,2020,HealthTech,0.29,Series B,Failed
+Startup272,2016,Gaming,94.61,Series C,Exit
+Startup273,2014,AI,43.31,Series B,Failed
+Startup274,2014,Fintech,55.81,IPO,Exit
+Startup275,2022,Fintech,7.92,IPO,Exit
+Startup276,2010,AI,13.69,IPO,Exit
+Startup277,2021,Fintech,97.9,Series B,Still Operating
+Startup278,2014,E-commerce,63.77,IPO,Failed
+Startup279,2011,E-commerce,88.92,IPO,Failed
+Startup280,2017,Fintech,34.37,Series A,Failed
+Startup281,2010,AI,95.33,IPO,Exit
+Startup282,2017,E-commerce,61.84,Series C,Still Operating
+Startup283,2020,HealthTech,44.73,Series B,Failed
+Startup284,2024,E-commerce,46.27,Series A,Failed
+Startup285,2023,AI,59.51,Series C,Exit
+Startup286,2011,EdTech,54.93,Series B,Exit
+Startup287,2022,E-commerce,62.43,Seed,Failed
+Startup288,2016,Gaming,46.68,Series A,Exit
+Startup289,2022,E-commerce,2.59,Series C,Still Operating
+Startup290,2014,EdTech,46.64,IPO,Failed
+Startup291,2018,Fintech,45.69,Series B,Exit
+Startup292,2024,AI,61.83,Series C,Still Operating
+Startup293,2017,Fintech,36.5,Series B,Still Operating
+Startup294,2013,HealthTech,8.63,Series C,Exit
+Startup295,2022,AI,26.97,Series A,Exit
+Startup296,2017,AI,28.9,IPO,Exit
+Startup297,2014,E-commerce,31.07,Series C,Still Operating
+Startup298,2017,Gaming,30.35,Series C,Failed
+Startup299,2015,HealthTech,54.05,Series C,Exit
+Startup300,2010,EdTech,33.83,IPO,Failed
+Startup301,2019,E-commerce,85.13,Series A,Exit
+Startup302,2017,Gaming,33.13,IPO,Failed
+Startup303,2013,AI,91.48,Series C,Exit
+Startup304,2014,AI,31.11,IPO,Failed
+Startup305,2011,Fintech,92.78,Seed,Still Operating
+Startup306,2017,Gaming,39.09,Seed,Failed
+Startup307,2010,E-commerce,12.78,Seed,Failed
+Startup308,2023,EdTech,73.38,Seed,Exit
+Startup309,2020,E-commerce,85.0,Series A,Failed
+Startup310,2020,E-commerce,74.58,Series A,Failed
+Startup311,2019,E-commerce,98.86,Seed,Still Operating
+Startup312,2015,Gaming,50.76,Series B,Exit
+Startup313,2011,Gaming,0.27,Series B,Still Operating
+Startup314,2017,AI,55.93,Series C,Failed
+Startup315,2013,Gaming,55.16,Seed,Exit
+Startup316,2011,Fintech,53.21,Seed,Failed
+Startup317,2014,EdTech,50.58,Series A,Failed
+Startup318,2023,Gaming,79.44,IPO,Still Operating
+Startup319,2012,EdTech,21.04,IPO,Exit
+Startup320,2023,EdTech,53.02,Series B,Failed
+Startup321,2013,HealthTech,23.28,Seed,Still Operating
+Startup322,2024,Gaming,59.39,Seed,Failed
+Startup323,2019,Gaming,8.36,Series A,Exit
+Startup324,2013,EdTech,60.28,Series C,Exit
+Startup325,2022,Fintech,39.19,Series A,Still Operating
+Startup326,2022,E-commerce,91.19,Series B,Still Operating
+Startup327,2023,AI,57.22,Series C,Still Operating
+Startup328,2016,AI,13.4,Seed,Failed
+Startup329,2012,Gaming,63.97,Series A,Still Operating
+Startup330,2023,AI,56.22,Series A,Still Operating
+Startup331,2012,E-commerce,82.16,Series B,Still Operating
+Startup332,2013,E-commerce,62.27,IPO,Still Operating
+Startup333,2010,HealthTech,91.77,Series A,Exit
+Startup334,2012,EdTech,2.82,Series A,Exit
+Startup335,2012,Gaming,51.25,IPO,Failed
+Startup336,2022,EdTech,62.35,IPO,Exit
+Startup337,2010,EdTech,77.88,Series B,Exit
+Startup338,2015,EdTech,67.22,Series A,Exit
+Startup339,2014,AI,47.79,Seed,Still Operating
+Startup340,2021,Fintech,66.1,Series A,Still Operating
+Startup341,2022,Gaming,13.04,IPO,Still Operating
+Startup342,2012,Fintech,38.11,Series B,Failed
+Startup343,2014,EdTech,13.92,Series B,Still Operating
+Startup344,2010,Gaming,41.83,Series B,Failed
+Startup345,2024,HealthTech,30.67,Series B,Still Operating
+Startup346,2021,Gaming,24.21,IPO,Still Operating
+Startup347,2018,HealthTech,88.54,IPO,Still Operating
+Startup348,2012,HealthTech,23.62,Series A,Still Operating
+Startup349,2012,E-commerce,70.19,Seed,Failed
+Startup350,2018,AI,22.13,Series A,Still Operating
+Startup351,2011,AI,33.94,Seed,Still Operating
+Startup352,2016,HealthTech,47.99,Series A,Failed
+Startup353,2019,AI,58.1,Series C,Exit
+Startup354,2020,Gaming,9.65,Series B,Exit
+Startup355,2014,E-commerce,13.99,Seed,Failed
+Startup356,2015,AI,71.6,Series C,Still Operating
+Startup357,2012,AI,60.23,IPO,Still Operating
+Startup358,2010,E-commerce,36.81,Seed,Failed
+Startup359,2020,HealthTech,7.89,Series C,Exit
+Startup360,2014,Fintech,60.47,Series B,Failed
+Startup361,2023,EdTech,90.32,IPO,Exit
+Startup362,2024,HealthTech,34.2,Seed,Failed
+Startup363,2021,EdTech,84.05,IPO,Failed
+Startup364,2012,EdTech,6.86,Series B,Still Operating
+Startup365,2013,EdTech,44.05,Series B,Failed
+Startup366,2010,Gaming,12.44,Series A,Still Operating
+Startup367,2013,AI,82.9,IPO,Exit
+Startup368,2023,HealthTech,53.28,Series A,Still Operating
+Startup369,2021,Gaming,59.32,Series B,Exit
+Startup370,2022,Gaming,44.98,Series A,Failed
+Startup371,2018,Fintech,99.62,Series B,Exit
+Startup372,2014,Gaming,7.44,Series B,Failed
+Startup373,2024,Gaming,38.7,IPO,Failed
+Startup374,2021,E-commerce,83.42,Series A,Still Operating
+Startup375,2024,EdTech,41.49,Series A,Still Operating
+Startup376,2017,Gaming,27.79,Series B,Still Operating
+Startup377,2016,AI,71.73,Series B,Exit
+Startup378,2022,Fintech,20.47,IPO,Failed
+Startup379,2019,HealthTech,28.79,Series B,Still Operating
+Startup380,2018,AI,36.96,Series B,Exit
+Startup381,2023,HealthTech,64.67,IPO,Failed
+Startup382,2013,EdTech,6.55,IPO,Still Operating
+Startup383,2013,HealthTech,74.66,Series C,Failed
+Startup384,2011,Gaming,9.22,Series A,Failed
+Startup385,2010,Fintech,33.88,IPO,Failed
+Startup386,2019,Gaming,52.29,Seed,Still Operating
+Startup387,2018,E-commerce,21.71,Series C,Exit
+Startup388,2020,AI,7.72,Series A,Still Operating
+Startup389,2013,HealthTech,71.21,Series C,Still Operating
+Startup390,2019,Fintech,11.29,Series C,Exit
+Startup391,2013,Fintech,72.85,Seed,Still Operating
+Startup392,2021,EdTech,16.54,Series A,Still Operating
+Startup393,2014,HealthTech,47.44,Series A,Exit
+Startup394,2011,AI,9.14,Series A,Exit
+Startup395,2010,Gaming,77.31,Seed,Still Operating
+Startup396,2020,E-commerce,2.34,Series A,Still Operating
+Startup397,2013,AI,40.81,Seed,Still Operating
+Startup398,2020,AI,11.85,Seed,Failed
+Startup399,2011,Gaming,26.67,IPO,Still Operating
+Startup400,2013,HealthTech,94.25,Series B,Failed
+Startup401,2019,Gaming,84.45,Series A,Still Operating
+Startup402,2018,HealthTech,29.51,Series A,Still Operating
+Startup403,2017,EdTech,84.17,IPO,Exit
+Startup404,2024,EdTech,93.5,Series C,Failed
+Startup405,2012,Gaming,31.82,Series C,Still Operating
+Startup406,2017,EdTech,44.74,IPO,Exit
+Startup407,2021,HealthTech,1.42,Series A,Failed
+Startup408,2012,Fintech,13.41,Series A,Still Operating
+Startup409,2018,Fintech,46.04,Series B,Exit
+Startup410,2010,Gaming,57.02,Seed,Exit
+Startup411,2018,Gaming,91.91,Series C,Failed
+Startup412,2021,Fintech,68.63,Series A,Still Operating
+Startup413,2022,E-commerce,53.91,Series A,Still Operating
+Startup414,2010,E-commerce,4.22,IPO,Exit
+Startup415,2015,AI,57.49,IPO,Exit
+Startup416,2013,E-commerce,47.09,Seed,Failed
+Startup417,2021,Fintech,20.71,Series B,Still Operating
+Startup418,2017,Fintech,94.97,IPO,Still Operating
+Startup419,2020,E-commerce,55.8,Series A,Failed
+Startup420,2019,EdTech,19.03,Series A,Still Operating
+Startup421,2012,HealthTech,4.99,Series C,Exit
+Startup422,2022,Gaming,52.93,Series A,Failed
+Startup423,2023,E-commerce,48.6,IPO,Failed
+Startup424,2015,HealthTech,32.0,Seed,Exit
+Startup425,2013,E-commerce,29.4,Series B,Still Operating
+Startup426,2024,Fintech,85.14,Seed,Failed
+Startup427,2016,HealthTech,87.21,Seed,Failed
+Startup428,2012,AI,72.03,Series C,Exit
+Startup429,2014,EdTech,61.27,IPO,Exit
+Startup430,2020,Gaming,92.89,IPO,Failed
+Startup431,2019,Gaming,76.5,IPO,Exit
+Startup432,2019,E-commerce,77.71,Series A,Failed
+Startup433,2011,Fintech,2.22,Series C,Exit
+Startup434,2016,AI,91.51,Series C,Failed
+Startup435,2013,EdTech,11.43,Series A,Failed
+Startup436,2011,Fintech,87.12,Series B,Failed
+Startup437,2018,AI,86.57,Series C,Exit
+Startup438,2021,EdTech,56.42,Seed,Exit
+Startup439,2016,AI,73.48,Series A,Failed
+Startup440,2021,Gaming,32.51,Seed,Exit
+Startup441,2024,E-commerce,4.16,IPO,Exit
+Startup442,2020,Fintech,14.84,Series A,Still Operating
+Startup443,2016,AI,64.7,Series A,Exit
+Startup444,2010,Gaming,90.35,Series A,Still Operating
+Startup445,2018,E-commerce,31.69,IPO,Still Operating
+Startup446,2018,HealthTech,35.88,IPO,Exit
+Startup447,2017,AI,11.02,IPO,Still Operating
+Startup448,2019,HealthTech,13.18,Seed,Exit
+Startup449,2016,E-commerce,72.61,IPO,Still Operating
+Startup450,2011,HealthTech,8.33,Series B,Still Operating
+Startup451,2021,Fintech,29.99,IPO,Failed
+Startup452,2010,E-commerce,86.92,Series A,Exit
+Startup453,2013,AI,78.37,Series B,Exit
+Startup454,2010,AI,76.02,Series B,Failed
+Startup455,2022,E-commerce,66.88,Series B,Failed
+Startup456,2017,AI,29.99,Series C,Still Operating
+Startup457,2021,EdTech,18.78,Series B,Still Operating
+Startup458,2015,HealthTech,58.79,Series A,Failed
+Startup459,2023,EdTech,43.03,Series C,Failed
+Startup460,2017,EdTech,84.23,Series B,Still Operating
+Startup461,2023,Fintech,18.29,Seed,Failed
+Startup462,2024,Fintech,79.98,Series B,Still Operating
+Startup463,2013,E-commerce,49.31,Seed,Exit
+Startup464,2017,AI,42.47,Series C,Still Operating
+Startup465,2011,Gaming,44.34,Series C,Exit
+Startup466,2017,Gaming,52.15,IPO,Still Operating
+Startup467,2013,HealthTech,96.12,Series C,Failed
+Startup468,2023,Gaming,78.42,Seed,Exit
+Startup469,2024,HealthTech,84.15,Series B,Still Operating
+Startup470,2024,Gaming,99.0,IPO,Failed
+Startup471,2010,EdTech,49.79,Series A,Failed
+Startup472,2011,EdTech,1.19,Series A,Exit
+Startup473,2022,E-commerce,92.83,Series A,Failed
+Startup474,2018,Fintech,94.76,IPO,Failed
+Startup475,2023,HealthTech,25.85,Series B,Still Operating
+Startup476,2014,Fintech,24.62,Seed,Still Operating
+Startup477,2019,Fintech,28.0,Series B,Still Operating
+Startup478,2017,Fintech,53.02,Series A,Exit
+Startup479,2024,AI,40.24,Series B,Still Operating
+Startup480,2010,HealthTech,72.17,IPO,Failed
+Startup481,2023,E-commerce,13.9,Series C,Exit
+Startup482,2021,HealthTech,98.01,Series A,Still Operating
+Startup483,2011,Fintech,52.28,IPO,Failed
+Startup484,2022,Fintech,13.51,Seed,Still Operating
+Startup485,2016,EdTech,1.01,Series C,Failed
+Startup486,2023,Gaming,80.25,Seed,Exit
+Startup487,2019,Fintech,84.1,Series A,Exit
+Startup488,2017,Gaming,35.25,Seed,Failed
+Startup489,2010,Fintech,63.16,Series A,Still Operating
+Startup490,2022,AI,85.88,Series B,Still Operating
+Startup491,2011,Fintech,81.41,Series B,Exit
+Startup492,2021,E-commerce,4.83,Series B,Failed
+Startup493,2012,Gaming,7.46,Series C,Exit
+Startup494,2011,Fintech,16.6,Series A,Failed
+Startup495,2018,Gaming,79.5,Series C,Exit
+Startup496,2021,AI,85.77,Series B,Failed
+Startup497,2019,HealthTech,28.48,Series B,Still Operating
+Startup498,2014,E-commerce,75.15,Series C,Failed
+Startup499,2015,E-commerce,24.18,Series C,Still Operating
