@@ -21,12 +21,12 @@ To democratize entrepreneurship by providing a no-code, automated platform that 
 | Layer | Tools |
 |-------|-------|
 | **Frontend** | React.js, Tailwind CSS |
-| **Backend** | Node.js, Express.js |
+| **Backend** | Flask  |
 | **AI Services** | OpenAI (GPT-4), LangChain |
-| **Database** | Supabase (PostgreSQL) |
-| **Vector DB** | Pinecone |
-| **Authentication** | JWT via Supabase |
-| **Deployment** | Vercel (Frontend), Heroku/AWS (Backend) |
+| **Database** | mysql |
+| **Vector DB** | mysql |
+| **Authentication** | JWT via flask |
+
 
 ---
 
@@ -40,7 +40,7 @@ To democratize entrepreneurship by providing a no-code, automated platform that 
 ↓
 [Pinecone (Memory)]
 ↓
-[Supabase (Auth + Storage)]
+[flask (Auth + Storage)]
 
 ---
 
@@ -59,7 +59,7 @@ To democratize entrepreneurship by providing a no-code, automated platform that 
 
 ## 🔐 Security
 
-- JWT-based authentication (Supabase)
+- JWT-based authentication (flask)
 - Role-based access control
 - Encrypted storage for business data
 
