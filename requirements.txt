@@ -1,0 +1,13 @@
+flask
+flask-sqlalchemy
+flask-cors
+werkzeug
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+opencv-python
+torch
+transformers

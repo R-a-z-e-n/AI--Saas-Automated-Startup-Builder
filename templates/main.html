@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Main Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Main Page</h1>
+        <p>You are logged in.</p>
+        
+        <div>
+            <h3>Enter a prompt for startup idea generation:</h3>
+            <textarea id="prompt" rows="4" cols="50"></textarea><br />
+            <button id="generate-btn">Generate Idea</button>
+        </div>
+
+        <div id="result"></div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
