@@ -1,0 +1,117 @@
+ 
+
+# Project1_AutonomousStartupBuilder.py
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import nltk
+from nltk.sentiment import SentimentIntensityAnalyzer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+import cv2
+import torch
+import transformers
+from transformers import pipeline
+
+# 1. DATA SCIENCE + EDA + DATA ANALYTICS
+def load_startup_ideas():
+    data = {
+        'idea': [
+            "AI-powered chatbot for customer service.",
+            "Blockchain-based voting system.",
+            "Subscription box for eco-friendly products."
+        ],
+        'category': ['AI', 'Blockchain', 'E-commerce']
+    }
+    df = pd.DataFrame(data)
+    return df
+
+def eda_visualization(df):
+    sns.countplot(x='category', data=df)
+    plt.title("Startup Idea Categories")
+    plt.show()
+
+# 2. FEATURE ENGINEERING
+def create_text_features(df):
+    vectorizer = TfidfVectorizer(max_features=20)
+    features = vectorizer.fit_transform(df['idea']).toarray()
+    return features, vectorizer
+
+# 3. MACHINE LEARNING
+def cluster_startups(features):
+    kmeans = KMeans(n_clusters=2, random_state=42)
+    clusters = kmeans.fit_predict(features)
+    return clusters
+
+# 4. NLP
+def analyze_sentiments(texts):
+    nltk.download('vader_lexicon')
+    sia = SentimentIntensityAnalyzer()
+    return [sia.polarity_scores(text) for text in texts]
+
+# 5. COMPUTER VISION (Mock example: Logo detection)
+def detect_logo(image_path):
+    img = cv2.imread(image_path, 0)
+    if img is not None:
+        edges = cv2.Canny(img, 100, 200)
+        return edges
+    else:
+        return None
+
+# 6. DEEP LEARNING (Example: simple autoencoder)
+def autoencoder_example():
+    model = torch.nn.Sequential(
+        torch.nn.Linear(10, 5),
+        torch.nn.ReLU(),
+        torch.nn.Linear(5, 10),
+        torch.nn.Sigmoid()
+    )
+    return model
+
+# 7. GENERATIVE AI (Idea generation)
+def generate_startup_idea(prompt):
+    generator = pipeline("text-generation", model="gpt2")
+    result = generator(prompt, max_length=30, num_return_sequences=1)
+    return result[0]['generated_text']
+
+# 8. AI (Automation Example)
+def automate_idea_review(ideas, sentiment_scores):
+    approved = []
+    for idea, sentiment in zip(ideas, sentiment_scores):
+        if sentiment['compound'] > 0:
+            approved.append(f"Approved: {idea}")
+        else:
+            approved.append(f"Needs Improvement: {idea}")
+    return approved
+
+# MAIN
+if __name__ == "__main__":
+    df = load_startup_ideas()
+    eda_visualization(df)
+
+    features, vectorizer = create_text_features(df)
+    clusters = cluster_startups(features)
+    print("Cluster assignments:", clusters)
+
+    sentiments = analyze_sentiments(df['idea'])
+    print("Sentiment analysis:", sentiments)
+
+    # CV example - Replace 'logo.jpg' with your image path
+    edges = detect_logo('logo.jpg')
+    if edges is not None:
+        cv2.imshow('Edges', edges)
+        cv2.waitKey(1000)
+        cv2.destroyAllWindows()
+
+    model = autoencoder_example()
+    print("Autoencoder model created:", model)
+
+    idea_gen = generate_startup_idea("Innovative startup idea: ")
+    print("Generated idea:", idea_gen)
+
+    reviews = automate_idea_review(df['idea'], sentiments)
+    print("\n".join(reviews))
