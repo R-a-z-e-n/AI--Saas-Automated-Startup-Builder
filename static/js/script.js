@@ -1,6 +1,6 @@
 const apiBase = 'http://localhost:5000';
 
-// Signup form submit
+
 const signupForm = document.getElementById('signup-form');
 if (signupForm) {
     signupForm.addEventListener('submit', async (e) => {
@@ -22,7 +22,6 @@ if (signupForm) {
     });
 }
 
-// Login form submit
 const loginForm = document.getElementById('login-form');
 if (loginForm) {
     loginForm.addEventListener('submit', async (e) => {
@@ -44,7 +43,7 @@ if (loginForm) {
     });
 }
 
-// Main page generate button
+
 const generateBtn = document.getElementById('generate-btn');
 if (generateBtn) {
     generateBtn.addEventListener('click', async () => {
